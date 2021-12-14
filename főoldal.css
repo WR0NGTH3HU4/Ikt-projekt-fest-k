@@ -1,1 +1,11 @@
-valami 
+header{
+    background-color:blue;
+    margin: auto;
+    width: 1000px;
+    height: 50px;
+}
+a{
+    font-size: large;
+    text-align: center;
+    margin: auto;
+}
