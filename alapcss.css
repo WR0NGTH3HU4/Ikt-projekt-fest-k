@@ -35,3 +35,8 @@ body{
     text-align: center;
     color: black;
 }
+
+.active {
+    pointer-events: none;
+    cursor: default;
+   }
