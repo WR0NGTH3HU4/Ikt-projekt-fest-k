@@ -1,0 +1,39 @@
+.kepek{
+    width: 150px;
+}
+
+.v2{
+    color: black;
+    margin: auto;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse:collapse;
+    width: 99%;
+    margin: auto;
+  }
+  
+  td, th {
+    border: 1px; 
+    border-color:black;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){
+    background-color:rgba(245, 245, 245, 0.822);
+  }
+
+  tr{
+    background-color:rgba(128, 128, 128, 0.822);
+  }
+
+  h5{
+      color: black;
+      margin: auto;
+      font-weight: 700;
+      margin-right: 10%;
+      margin-left: 5%;
+      width: 75%;
+}
