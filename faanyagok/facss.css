@@ -24,7 +24,7 @@ a{
     color: white;
 }
 body{
-  background-image: url(Képek/projekt\ háttér.jpg);
+  background-image: url(../Képek/projekt\ háttér.jpg );
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
