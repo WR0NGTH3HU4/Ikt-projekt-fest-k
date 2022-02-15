@@ -1,0 +1,9 @@
+KÉPEK-KEVIN: 
+
+HTML-LEVENTE:
+
+CSS-MÁTÉ:
+
+Én készítettem a css-t. 
+A fõoldal elsõ veziójakor rögtön készítettünk egy alap css-t ami tartalmazta a hátteret, az alap betûméretet valamint betûszínt.
+A többi oldalhoz tartózó css-eknél egy kis változtatás tötént csak az alaphoz képest. pl a táblázat desgin-ja vagy a kép elrendezése.
