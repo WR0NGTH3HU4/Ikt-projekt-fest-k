@@ -1,0 +1,42 @@
+1. Dia
+Főoldal elkészítése:
+A főoldal elkészítését január harmadikán kezdtük el, amit később kisebb javításokkal módosítottunk. 
+A Html oldalt Levente készítette el, a Css-t Máté készítette, a képekért pedig Kevin felelt.
+Az oldalon található egy fejléc ahol kattintható gombok vannak amik a többi oldalra vezetnek.
+Lejjebb látható egy anyagminta a bükkről, valamint mellette egy kis ismertető.
+Ezek alatt megtalálható egy táblázat ami a tulajdonságait mutatja be.
+
+2. Dia 
+Festékek oldal eklkészítése:
+Ennek az oldalnak a munkálatai Január hatodikán kezdődtek.
+A munka felosztása itt is ugyanúgy történt mint az előző oldalnál, viszont itt Kevin kórházba került így nem tudott részt venni pár hétig a munkálatokba.
+Az ő feladatait megosztva végeztük a csapaton belül.
+Ezen az oldalon megtalálható nyolc különböző színű festék amit a webáruház kínál.
+Mindegyik szín alatt megtalálható a megnevezése a színkódja a mennyiség ami egy vödörben található valamint az ára.
+
+3. Dia
+Faanyagok oldal elkészítése:
+Ez az oldal január kilencedikén készült.
+Mivel ugyanazt a css-t használtuk ezeken az oldalakon mint a főoldalon ezért ezeket az oldalakat Levente csinálta egyedül.
+Az oldalon először 5 fajta fa látható, viszont a képekre vagy a szövegre kattintva átjuthatunk újabb oldalakra ahol a főoldalhoz hasonlóan röviden ismertettük az adott fákat mintával együtt.
+
+4. Dia
+Szerszámok oldal elkészítése:
+Ezt az oldalt január tizenegyedikén készítettük el.
+A munkamegosztás ugyanúgy történt mint az előző oldalakon, viszont Kevin sajnos itt még mindig beteg volt, így ő nem tudott még itt se részt venni a projektbe.
+Az oldalon látható 8 darab szerszám amik hasznosak lehetnek. 
+A szerszámok elosztása két sorban történt, mindenkét sorban 4-4 darab van.
+Ha a képre vagy a szövegre kattintunk az átvisz minket egy weboldalra (Praktiker) ahol meg is tudjuk vásárolni ezeket az eszközöket.
+
+5. Dia
+Ezt az oldalt időben párhuzamosan készítettük a blog oldal első verziójával, így a munkálatok két napot vettek igénybe: Január 15-ét és 16-át.
+Ennek az oldalnak az első verziója még Kevin jelenléte valamint bemutatkozó szövegek nélkül készült.
+Az oldalon látható a három készítő név szerint rendezve, a képük alatt pedig van egy rövid bemutatkozó szöveg.
+
+6. Dia
+Itt látható egy kis ismertető szöveg az oldalról alatta pedig egy kis leírás arról hogy a három fő dolog amit az oldalunk bemutat az mi is pontosan.(Festékek, Szerszámok, Faanyagok)
+Az oldalon található egy link is ami a Github oldalra visz át ahol láthatóak a fileok külön-külön valamint a commitok, ha esetleg valaki erre kíváncsi lenne.
+Ezt az oldalt az iskolában keszítettük, valamint miután ezzel kész lettünk a többi oldalon javítottuk azokat a dolgokat amik nem tetszettek.
+
+KÖSZÖNÖM A FIGYELMET!
+
