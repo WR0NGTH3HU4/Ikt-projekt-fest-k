@@ -1,0 +1,43 @@
+KEVIN: 
+
+Képek:
+  keresése 
+  szerkesztése 
+  beillesztése
+Betegség
+HTML, CSS:
+  apró változtatások
+  végső simítások
+  hibák javítása
+  blog szöveg megírása
+powerpoint:
+  képek szerkesztése és keresése
+  
+LEVENTE:
+
+HTML:
+  átláthatóság
+  egyszerűség
+  csapatmunka
+  szövegek keresése, beillesztése és szerkesztése.
+Képek egy része:
+  png képek:
+     másolás
+     méretezés
+     többszöri beillesztés
+Powerpoint:
+  design elkészítése
+  
+MÁTÉ:
+
+CSS:
+  alap css
+  apró változtatások
+Github és Jira elkészítése
+KÉPEK:
+  festékek átfestése
+  pár kép körbevágása
+powerpoint:
+  szöveg megírása
+ 
+  
