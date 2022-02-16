@@ -1,9 +1,43 @@
-K�PEK-KEVIN: 
+KEVIN: 
 
-HTML-LEVENTE:
+Képek:
+  keresése 
+  szerkesztése 
+  beillesztése
+Betegség
+HTML, CSS:
+  apró változtatások
+  végső simítások
+  hibák javítása
+  blog szöveg megírása
+powerpoint:
+  képek szerkesztése és keresése
+  
+LEVENTE:
 
-CSS-M�T�:
+HTML:
+  átláthatóság
+  egyszerűség
+  csapatmunka
+  szövegek keresése, beillesztése és szerkesztése.
+Képek egy része:
+  png képek:
+     másolás
+     méretezés
+     többszöri beillesztés
+Powerpoint:
+  design elkészítése
+  
+MÁTÉ:
 
-�n k�sz�tettem a css-t. 
-A f�oldal els� vezi�jakor r�gt�n k�sz�tett�nk egy alap css-t ami tartalmazta a h�tteret, az alap bet�m�retet valamint bet�sz�nt.
-A t�bbi oldalhoz tart�z� css-ekn�l egy kis v�ltoztat�s t�t�nt csak az alaphoz k�pest. pl a t�bl�zat desgin-ja vagy a k�p elrendez�se.
+CSS:
+  alap css
+  apró változtatások
+Github és Jira elkészítése
+KÉPEK:
+  festékek átfestése
+  pár kép körbevágása
+powerpoint:
+  szöveg megírása
+ 
+  
